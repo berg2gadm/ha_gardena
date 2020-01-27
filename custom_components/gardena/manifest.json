@@ -2,7 +2,7 @@
   "domain": "gardena",
   "name": "Gardena Smart Systems",
   "config_flow": false,
-  "documentation": "https://github.com/berg2gadm/gardena",
+  "documentation": "https://github.com/berg2gadm/ha_gardena",
   "codeowners": [
     "@wijnandtop"
   ]
